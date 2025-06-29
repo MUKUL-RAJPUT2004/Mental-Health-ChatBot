@@ -43,8 +43,8 @@ A compassionate mental health chatbot designed specifically for Indian rural you
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MUKUL-RAJPUT2004/Hental-Health-ChatBot.git
-   cd Hental-Health-ChatBot
+   git clone https://github.com/MUKUL-RAJPUT2004/Mental-Health-ChatBot.git
+   cd Mental-Health-ChatBot
    ```
 
 2. **Install dependencies**
